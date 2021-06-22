@@ -13,14 +13,14 @@ int danger;
  
     if (c=='a'||c=='e'||c=='i'||c=='o'||c=='u')
     {
-        cout<<c<<" is a vowel";
+        cout<<c<<" is a vowel"<<endl;
         
     }
     else
     {
-        cout<<c<<" is a consonant";
+        cout<<c<<" is a consonant"<<endl;
     }
-    
+    cout<<"Checkout this branch ";
     
     
     return 0;
