@@ -5,6 +5,7 @@ int main(){
     
     char c;
     cin>>c;
+cout<<"Hello world"<<endl;
 
     // char a,e,i,o,u;
  
