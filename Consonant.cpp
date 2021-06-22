@@ -5,7 +5,9 @@ int main(){
     
     char c;
     cin>>c;
+
 cout<<"Hello world"<<endl;
+int danger;
 
     // char a,e,i,o,u;
  
